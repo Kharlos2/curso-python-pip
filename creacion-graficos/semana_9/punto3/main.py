@@ -28,6 +28,8 @@ print("La suma total de salarios es:", suma_total_salarios)
 
 #Punto de 4
 """ 
-
+Se puede hacer una tabla que registre el numero de personas que han muerto, la edad, la fecha de muerte, la razón de muerte, genero
+y demas info extendida, con la intención de visibilizar cual es la razón de muertes comun y edades para poder tomar medidas y recomendaciones
+a las personas para evitar esto
 
 """
