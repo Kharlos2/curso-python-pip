@@ -9,7 +9,10 @@ fecha,producto,categoria,ventas
 2024-05-10,Smartwatch,Electronica,700
 2024-05-15,Libro,Literatura,300
 2024-06-01,Audífonos,Electronica,400
-2024-06-05,Tablet,Electronica,900
+2024-06-05,Radio,Electronica,900
+2024-06-15,Zapatos,Ropa,120
+2024-06-20,Blusa,Ropa,250
+2024-06-25,Mochila,Accesorios,180
 2024-07-12,Smartphone,Electronica,1300
 2024-07-18,Consola de juegos,Electronica,1600
 2024-08-25,Smart TV,Electronica,2800
@@ -17,7 +20,7 @@ fecha,producto,categoria,ventas
 2024-09-08,Portátil,Electronica,1700
 2024-10-15,Libro,Literatura,400
 2024-10-20,Smartwatch,Electronica,800
-2024-11-05,Smartphone,Electronica,1100
+2024-11-05,Cámara,Fotografía,1100
 2024-11-10,Tablet,Electronica,1000
 2024-12-20,Consola de juegos,Electronica,1500
 2024-12-25,Smart TV,Electronica,3000
